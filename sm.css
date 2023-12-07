@@ -1,0 +1,16 @@
+div #menu 
+{
+width: 30%;
+}
+div #menu ul 
+{
+	padding: 0%;
+	width: 100px;
+	border: 2px solid red;
+	margin: 0px;
+}
+div #menu ul li
+{
+	position: relative;
+	list-style: none;
+}
